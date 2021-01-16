@@ -1,0 +1,9 @@
+.news
+{
+    cursor: pointer;
+    padding: 10px;
+}
+.news:hover
+{
+    border: 1px solid red;
+}
